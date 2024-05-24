@@ -20,4 +20,4 @@ Restart the app, repeat the steps and you will see
 Hello {}!
 ```
 
-indicating there is no `null` anymore, but something unserializable (for Jackson) -- the proxy result.
+indicating there is no `null` anymore, but something "empty" -- the proxy result.
